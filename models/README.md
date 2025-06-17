@@ -1,5 +1,7 @@
- RandomForestClassifier
- Accuracy_score 
- confusion_matrix, 
- ConfusionMatrixDisplay
- 
+ 1. RandomForestClassifier
+
+2. Accuracy_score 
+
+3. confusion_matrix, 
+
+4. ConfusionMatrixDisplay
